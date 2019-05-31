@@ -4,5 +4,5 @@ def prime?(num)
     false
   else (2..Math.sqrt(num)).each {|i| return false if num % i == 0}
   true
-end
+  end
 end
