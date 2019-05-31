@@ -1,3 +1,3 @@
 # Add  code here!
 def prime?(num)
-  (2..math.sqrt)
+  (2..math.sqrt(num))
